@@ -1,0 +1,70 @@
+html {
+  background: url(images/static1.squarespace.jpg) no-repeat center center fixed;
+  /* few-options-burning-man-2013-black-rock-city-nevada-by-dan-hogman.jpg */
+  /* static1.squarespace-1.jpg */
+  /* static1.squarespace.jpg */
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+div#text {
+  text-align: right;
+  margin-top: 1em;
+  margin-right: 1em;
+}
+
+h1 {
+  font-size: 4em;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  text-shadow: 1px 1px 0 #000;
+  margin-bottom: .5em;
+}
+
+h2 {
+  font-size: 2em;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  text-shadow: 1px 1px 0 #999;
+
+}
+
+p {
+  font-size: 2em;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  text-shadow: 1px 1px 0 #999;
+  margin-bottom: 0;
+}
+
+span.inv {
+  color: #333;
+  font-family: 'Roboto', sans-serif;
+  text-shadow: -1px -1px 0 #333;
+}
+
+ul {
+  margin-top: 0;
+  list-style-type: none;
+}
+
+li {
+  font-size: 1.5em;
+  color: #000;
+  font-family: 'Roboto', sans-serif;
+  text-shadow: -1px -1px 0 #333;
+}
+
+a {
+  color: #4c9fec;
+  text-decoration: none;
+  text-shadow: 0px 0px 0 #4693da;
+}
+
+a:hover {
+  color: #4c9fec;
+  text-decoration: underline;
+  text-shadow: 0px 0px 0 #4693da;
+}
